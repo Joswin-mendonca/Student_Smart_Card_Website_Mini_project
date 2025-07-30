@@ -1,0 +1,15 @@
+{
+  "firstName": "Joswin",
+  "middleName": "Sharon",
+  "lastName": "Mendonca",
+  "dob": "2004-09-03",
+  "tenStdPercentage": "86.24",
+  "pucPercentage": "80.00",
+  "cgpa": "8.04",
+  "fathersName": "Abc xyz",
+  "mothersName": "Def mno",
+  "contact": "07619255171",
+  "bloodGroup": "B+",
+  "roll": "21",
+  "fullName": "Joswin Sharon Mendonca"
+}
