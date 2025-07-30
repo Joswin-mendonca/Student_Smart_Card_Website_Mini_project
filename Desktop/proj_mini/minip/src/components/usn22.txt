@@ -1,0 +1,15 @@
+{
+  "firstName": "Lionel",
+  "middleName": "",
+  "lastName": "Messi",
+  "dob": "2004-06-03",
+  "tenStdPercentage": "86.24",
+  "pucPercentage": "80.00",
+  "cgpa": "8.04",
+  "fathersName": "cdscs",
+  "mothersName": "sdvscv",
+  "contact": "9999999999",
+  "bloodGroup": "A+",
+  "roll": "22",
+  "fullName": "Lionel  Messi"
+}

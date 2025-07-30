@@ -1,0 +1,16 @@
+{
+  "roll": "12345",
+  "usn": "USN12345",
+  "fullName": "John Doe",
+  "firstName": "John",
+  "middleName": "A.",
+  "lastName": "Doe",
+  "dob": "2000-01-01",
+  "tenStdPercentage": 85,
+  "pucPercentage": 90,
+  "cgpa": 8.5,
+  "fathersName": "Father's Name",
+  "mothersName": "Mother's Name",
+  "contact": "1234567890",
+  "bloodGroup": "O+"
+}
